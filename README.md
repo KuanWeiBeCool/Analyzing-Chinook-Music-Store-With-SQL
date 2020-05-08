@@ -5,3 +5,5 @@ Chinook database is a media-related sample database in SQLite used for practicin
 - Investigate the most popular genres by country
 - Evaluate the performance of the sales support agents
 - Identify the portions of whole album purchase and individual track purchase
+
+**Please check *Analyzing Chinook Music Store With SQL.ipynb* for the complete project.**
