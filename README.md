@@ -1,4 +1,4 @@
-# Analyzing-Chinook-Music-Store-Using-SQL
+# Chinook-Music-Store-Data-Analysis-Using-SQL
 Chinook database is a media-related database that contains data about Chinook Music Store. The database contains 11 different tables: album, artist, customer, employee, genre, invoice, invoice_line, media_type, playlist, playlist_track, and track. In this project I will apply my SQL skills to answer the following questions:
 
 - What are the most popular and the least popular genres?
